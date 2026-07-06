@@ -1,0 +1,13 @@
+{
+  "app_active": true,
+  "force_update": false,
+  "min_version_code": 2,
+  "latest_version_code": 2,
+  "latest_version_name": "1.2.0",
+  "apk_url": "https://github.com/azedhox/primetv-update/releases/download/v1.2.0/primetv-ott.apk",
+  "release_notes": [
+    "إصلاحات وتحسينات في الأداء",
+    "تحسين سرعة التشغيل",
+    "إصلاح مشكلة الترجمة"
+  ]
+}
