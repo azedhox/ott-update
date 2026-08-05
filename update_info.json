@@ -1,9 +1,9 @@
 {
   "app_active": true,
   "force_update": true,
-  "min_version_code": 6,
-  "latest_version_code": 6,
-  "latest_version_name": "1.5.2",
-  "apk_url": "https://github.com/azedhox/ott-update/releases/download/1.5.2/PrimeTV.OTT.apk",
-  "release_notes": "Fixing Movie Playback\nتحسين السرعة \nإصلاح تشغيل الأفلام"
+  "min_version_code": 7,
+  "latest_version_code": 7,
+  "latest_version_name": "1.6.0",
+  "apk_url": "https://github.com/azedhox/ott-update/releases/download/v1.6.0/PrimeTV.OTT.apk",
+  "release_notes": "ِAdded Download Feature\n\nإضافة ميزة التنزيل و تحسين جودة البث"
 }
