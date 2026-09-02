@@ -1,6 +1,6 @@
 {
   "app_active": true,
-  "force_update": true,
+  "force_update": false,
   "min_version_code": 12,
   "latest_version_code": 12,
   "latest_version_name": "2.0.0",
