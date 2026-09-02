@@ -1,9 +1,9 @@
 {
   "app_active": true,
   "force_update": true,
-  "min_version_code": 11,
-  "latest_version_code": 11,
-  "latest_version_name": "1.7.5",
+  "min_version_code": 12,
+  "latest_version_code": 12,
+  "latest_version_name": "2.0.0",
   "apk_url": "https://github.com/azedhox/ott-update/releases/download/new/PrimeTV.v1.7.5.apk",
   "release_notes": "\n\n"
 }
